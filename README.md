@@ -8,3 +8,13 @@ This project is used for the following purposes:
 - Learn about collaboration
 - Work with GitHub
 
+### My contribution to this project
+1. Learn GitHub
+2. Share with Giulia and Joana
+
+### It's very confusing so we're trying to pull request again
+But first: BOLD and ITALICS
+*italics*
+**bold**
+***all together***
+
