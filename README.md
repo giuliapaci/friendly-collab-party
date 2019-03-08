@@ -9,6 +9,12 @@ This project is used for the following purposes:
 - Work with GitHub
 
 ### My contribution to this project
+
+
+1. Teach GitHub 
+2. Keep her motivated
+3. Show her how to make websites
+=======
 1. Learn GitHub
 2. Share with Giulia and Joana
 
