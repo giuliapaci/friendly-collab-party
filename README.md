@@ -8,3 +8,8 @@ This project is used for the following purposes:
 - Learn about collaboration
 - Work with GitHub
 
+### My contribution to this project
+
+1. Teach GitHub 
+2. Keep her motivated
+3. Show her how to make websites
